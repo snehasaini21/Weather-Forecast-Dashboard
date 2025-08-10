@@ -29,5 +29,3 @@ From the sample data:
 - **Amritsar** – Hotter temperatures (~35°C) with moderate humidity.
 - **AQI patterns** – PM10 and NO₂ levels remain within safe range in most cities, but urban areas show spikes in CO.
 - **UV Index** – Cities like Hyderabad and Amritsar show UV Index 6, suggesting sun protection during peak hours.
-
-- 
